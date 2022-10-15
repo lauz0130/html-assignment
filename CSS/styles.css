@@ -4,5 +4,13 @@ body {
   
   h1 {
     color: maroon;
-    margin-left: 40px;
+  }
+
+  p {
+    font-family: "Agency FB", Times, serif;
+    font-size: 18px;
+  }
+
+  footer{
+    background-color:aqua;
   }
