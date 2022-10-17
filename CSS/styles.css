@@ -11,6 +11,6 @@ body {
     font-size: 18px;
   }
 
-  footer{
+  header, footer{
     background-color:aqua;
   }
